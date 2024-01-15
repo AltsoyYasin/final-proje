@@ -15,7 +15,7 @@
 ##Frontend Kurulumu##
 
 
-1. Yeni bir terminal sekmesi açın ve frontend dizinine gidin.
+1. Yeni bir terminal sekmesi açın ve okul-proje dizinine gidin. cd okul-proje 
 
  
 2. Bağımlılıkları yüklemek için npm install komutunu çalıştırın.
