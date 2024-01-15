@@ -1,4 +1,6 @@
 ##Backend kurulumu##
+
+
 1.Terminali açın ve backend dizinine gidin. cd backend
 
 
